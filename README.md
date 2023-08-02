@@ -52,8 +52,8 @@ The code was written in R using version 3.6.2. The following packages are needed
 * [04_describe_dependent_local.R](https://github.com/NuffieldTrust/lala-infant-mortality/blob/main/r/04_describe_dependent_local.R): Distribution of infant mortality rates by local authority and over time
 * [05_describe_independent_local.R](https://github.com/NuffieldTrust/lala-infant-mortality/blob/main/r/05_describe_independent_local.R): Summarise independent variables at local authority level
 * [06_correlation_dependent_independent.R](https://github.com/NuffieldTrust/lala-infant-mortality/blob/main/r/06_correlation_dependent_independent.R): Check the relationship between infant mortality rates and independent variables
-* [07_simple_linear_regression.R](https://github.com/NuffieldTrust/lala-infant-mortality/blob/main/r/07_simple_linear_regression.R): Unadjusted regression models of each independent variable indivdually with infant mortality rates
-* [08_blocks_multiple_linear_regression.R](https://github.com/NuffieldTrust/lala-infant-mortality/blob/main/r/08_blocks_multiple_linear_regression.R): Adjusted negative binomial regression models based on variable themes and then final model
+* [07_simple_linear_regression.R](https://github.com/NuffieldTrust/lala-infant-mortality/blob/main/r/07_simple_glm_regression.R): Unadjusted regression models of each independent variable indivdually with infant mortality rates
+* [08_blocks_multiple_linear_regression.R](https://github.com/NuffieldTrust/lala-infant-mortality/blob/main/r/08_blocks_multiple_glm_regression.R): Adjusted negative binomial regression models based on variable themes and then final model
 
 ## Code authors
 Eilís Keeble - [Twitter](https://twitter.com/eiliskeeble) - [GitHub](https://github.com/eiliskeeble)
