@@ -13,7 +13,7 @@ This project looked at which local area characteristics are associated with infa
 ## Data sources
 
 The infant mortality data was sourced from the [Office for National Statistics](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/childmortalitystatisticschildhoodinfantandperinatalchildhoodinfantandperinatalmortalityinenglandandwales). We calculated the rates using the number of infant deaths / the number of live births per 1,000.
-The local area characteristics were sourced from a variety of different places including governement websites, see the [Technical annex](https://www.nuffieldtrust.org.uk/sites/default/files/2024-02/Technical_appendix_infant%20mortality_WEB_0.pdf) for details. 
+The local area characteristics were sourced from a variety of different places including governement websites, see the [technical annex](https://www.nuffieldtrust.org.uk/sites/default/files/2024-02/Technical_appendix_infant%20mortality_WEB_0.pdf) for details. 
 The map shapefile was sourced from [ONS Geoportal](https://geoportal.statistics.gov.uk/maps/counties-and-unitary-authorities-december-2017-ew-bfe).
 
 <i>NOTE: For the number of deliveries to different ethnic groups the Hospital Episode Statistics (© NHS Digital 2022) were used.</i>
