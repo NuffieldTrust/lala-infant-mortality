@@ -1,4 +1,4 @@
-# [Understanding differences in infant mortality rates across local areas]
+# Understanding differences in infant mortality rates across local areas
 
 <b>lala-infant-mortality: Local area linked analysis of infant mortality</b>
 
@@ -7,13 +7,13 @@
 ## Project description
 This project looked at which local area characteristics are associated with infant mortality. It used data at the upper tier local authority level to look at the association between infant mortality rates and local area factors using linear regression models. 
 
-* The final report can be found [HERE](https://www.nuffieldtrust.org.uk/research/understanding-differences-in-infant-mortality-rates-across-local-areas) 
+* The final report can be found [here](https://www.nuffieldtrust.org.uk/research/understanding-differences-in-infant-mortality-rates-across-local-areas) 
 * The code is available in [`r/`](https://github.com/NuffieldTrust/lala-infant-mortality/tree/main/r)
 
 ## Data sources
 
 The infant mortality data was sourced from the [Office for National Statistics](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/childmortalitystatisticschildhoodinfantandperinatalchildhoodinfantandperinatalmortalityinenglandandwales). We calculated the rates using the number of infant deaths / the number of live births per 1,000.
-The local area characteristics were sourced from a variety of different places including governement websites, see the [TECHNICAL ANNEX](https://www.nuffieldtrust.org.uk/sites/default/files/2024-02/Technical_appendix_infant%20mortality_WEB_0.pdf) for details. 
+The local area characteristics were sourced from a variety of different places including governement websites, see the [Technical annex](https://www.nuffieldtrust.org.uk/sites/default/files/2024-02/Technical_appendix_infant%20mortality_WEB_0.pdf) for details. 
 The map shapefile was sourced from [ONS Geoportal](https://geoportal.statistics.gov.uk/maps/counties-and-unitary-authorities-december-2017-ew-bfe).
 
 <i>NOTE: For the number of deliveries to different ethnic groups the Hospital Episode Statistics (© NHS Digital 2022) were used.</i>
