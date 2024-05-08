@@ -62,4 +62,4 @@ Eilís Keeble - [Twitter](https://twitter.com/eiliskeeble) - [GitHub](https://gi
 This project is licensed under the [MIT License](https://github.com/NuffieldTrust/lala-obesity-reception/blob/main/LICENSE).
 
 ## Suggested citation
-ADD SUGGESTED CITATION FOR REPORT
+Fisher E, Keeble E, Cheung R, Hargreaves D, Wortley E and Elias L (2024) Understanding differences in infant mortality rates across local areas. Research report, Nuffield Trust.
